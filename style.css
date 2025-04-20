@@ -1,0 +1,24 @@
+/* Class selector for the header */
+.header {
+    color: #4CAF50; /* Green color */
+    font-family: 'Arial, sans-serif'; /* Different font */
+    text-align: center;
+    margin: 20px; /* Adding margin */
+}
+
+/* ID selector for the introductory paragraph */
+#intro {
+    color: #333; /* Dark gray color */
+    font-size: 18px;
+    padding: 10px; /* Adding padding */
+    border: 1px solid #ddd; /* Adding border */
+}
+
+/* Styling an image using a class selector */
+.styled-image {
+    width: 300px;
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 10px; /* Rounded corners */
+    margin: 15px auto; /* Center and add margin */
+    display: block;
+}
